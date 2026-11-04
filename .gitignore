@@ -1,0 +1,16 @@
+Đoạn mã
+# 1. Bỏ qua các file bộ nhớ tạm của Python (Byte-compiled files)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 2. Bỏ qua File CSDL SQLite (đề bài yêu cầu tạo động khi chạy main.py)
+*.db
+*.sqlite3
+app.db
+
+# 3. Bỏ qua file cấu hình IDE / Editor
+.vscode/
+.idea/
+*.swpl
