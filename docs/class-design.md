@@ -1,0 +1,1 @@
+![Sơ đồ Luồng Dữ liệu](class-design.png)
